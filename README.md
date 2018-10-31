@@ -8,12 +8,21 @@ Another issue I had was we had to add tcp 80 to mhn-admin in order to pull up th
 
 ## Summary
 Data collected:
+Json Attached
 
 Number of attacks:
+7756
 
 Number of maleware samples:
-
-ETC:
+7
+Protocols:
+pcap
+SipSession
+SipCall
+smbd
+mysqld
+httpd
+TftpServerHandler
 
 ## Unresolved Questions
 None
